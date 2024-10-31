@@ -37,7 +37,7 @@ def vector_embedding(uploaded_files):
     return st.session_state.vectors
 
 # Streamlit UI
-st.title("NVIDIA NIM DEMO")
+st.title("RAG WITH EXTERNAL DOCS BY USING NVIDIA NIM ")
 
 # File uploader for PDFs
 uploaded_files = st.file_uploader("Upload PDF files", type="pdf", accept_multiple_files=True)

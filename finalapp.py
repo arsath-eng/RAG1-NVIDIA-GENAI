@@ -30,7 +30,7 @@ def vector_embedding():
     return st.session_state.vectors
 
 # Streamlit UI
-st.title("NVIDIA NIM DEMO")
+st.title("RAG WITH NVIDIA NIM DEMO")
 
 # Button to create vector store
 if st.button("Create Document Embeddings"):

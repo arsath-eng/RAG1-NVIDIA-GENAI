@@ -220,10 +220,7 @@ git push origin feature/YourFeature
 ```
 5. Submit Pull Request
 
-### Code Standards
-- PEP 8 compliance
-- Documentation requirements
-- Test coverage expectations
+
 
 ## 📝 License
 
@@ -245,9 +242,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-<div align="center">
 
-**[Documentation](docs/) • [Report Bug](issues) • [Request Feature](issues/new)**
 
 [![Stars](https://img.shields.io/github/stars/arsath-eng/RAG1-NVIDIA-GENAI?style=social)](https://github.com/arsath-eng/RAG1-NVIDIA-GENAI)
 
